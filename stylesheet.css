@@ -9,3 +9,19 @@
 .navbar-default .navbar-brand {
    color: black;
 }
+
+.melon {
+    width:100%;
+    height: auto;
+    margin-top: 3em;
+}
+
+#mission {
+    margin-top: 2em;
+    font-size: 1.25em;
+    line-height: 1.25em;
+}
+
+.col-lg-4 {
+    text-align: center;
+}
